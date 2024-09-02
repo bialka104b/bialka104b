@@ -30,5 +30,7 @@ wsiz.epanel.angular
 
 [![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae) LUGO Mobile - Vue3, Nuxt3, Tailwind, RestAPI IndexedDB, Pinia, PWA
 
-# WAKATIME PNG
+# WAKATIME PNG LAST YEAR 2.09.2024
+<figure><embed src="https://wakatime.com/share/@bialka/60aa765d-f869-4326-b4f4-1aad382098e2.svg"></embed></figure>
+<img src="https://wakatime.com/share/@bialka/60aa765d-f869-4326-b4f4-1aad382098e2.svg" /> 
 <img src="https://wakatime.com/share/@bialka/75fc2f90-489a-411e-b462-ee52ba0b778b.png" /> 
