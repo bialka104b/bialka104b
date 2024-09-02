@@ -22,6 +22,10 @@ wsiz.epanel.angular
 
 [![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/16081d79-8ccc-4c18-a6d5-667753e84ee2.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/16081d79-8ccc-4c18-a6d5-667753e84ee2) app WeatherUniversity
 
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db2f0-e644-4224-ab53-1cfd5fe11d72.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db2f0-e644-4224-ab53-1cfd5fe11d72) unicorn mobile - REACT18, Nuxt14, Tailwind, Websocket, Rest Api
+
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711) unicorn-desktop - REACT18, Nuxt14, Tailwind, Websocket, Rest Api
+
 
 
 # WAKATIME PNG
