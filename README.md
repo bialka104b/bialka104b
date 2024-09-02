@@ -11,8 +11,11 @@ bialka104b/bialka104b is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# CODE TIME 
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/4086?logoColor=white%26project=%26recentMS=1209600000%26showProject=false" />
+# CODE TIME IN MY PROFILE WAKATIME
+[//]: <img alt="Code Time" src="https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/4086?logoColor=white%26project=%26recentMS=1209600000%26showProject=false" />
+
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730.svg)](https://wakatime.com/@ff698a74-c07c-48e3-9090-6ca031e67730) MY PROFILE WAKATIME  - click me
+
 
 # WAKATIME PER  LAST PROJECTS
 [![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/edb82d8f-25dd-4bb0-bad5-c24befa7d2f2.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/edb82d8f-25dd-4bb0-bad5-c24befa7d2f2) 
@@ -30,7 +33,15 @@ wsiz.epanel.angular
 
 [![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae) LUGO Mobile - Vue3, Nuxt3, Tailwind, RestAPI IndexedDB, Pinia, PWA
 
-# WAKATIME PNG LAST YEAR 2.09.2024
-<figure><embed src="https://wakatime.com/share/@bialka/60aa765d-f869-4326-b4f4-1aad382098e2.svg"></embed></figure>
-<img src="https://wakatime.com/share/@bialka/60aa765d-f869-4326-b4f4-1aad382098e2.svg" /> 
-<img src="https://wakatime.com/share/@bialka/75fc2f90-489a-411e-b462-ee52ba0b778b.png" /> 
+# WAKATIME Activity LAST YEAR GITLAB 2.09.2024
+<img src="https://wakatime.com/share/@bialka/81114bfe-bb54-4bd9-a2c7-b63b963f18c1.svg" /> 
+
+
+# WAKATIME Languages LAST YEAR GITLAB 2.09.2024
+<img style="width:60%;" src="https://wakatime.com/share/@bialka/941a5d34-5de6-4ecf-841d-797b92dd5ce8.svg"></img>
+
+# WAKATIME Languages ALL Time GITLAB 2.09.2024
+<img style="width:60%;" src="https://wakatime.com/share/@bialka/7a500c36-6226-4149-b62d-938b3fc4f1e0.svg" /> 
+
+
+
