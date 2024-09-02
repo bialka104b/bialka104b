@@ -24,9 +24,11 @@ wsiz.epanel.angular
 
 [![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db2f0-e644-4224-ab53-1cfd5fe11d72.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db2f0-e644-4224-ab53-1cfd5fe11d72) unicorn mobile - REACT18, Nuxt14, Tailwind, Websocket, Rest Api
 
-[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711) unicorn-desktop - REACT18, Nuxt14, Tailwind, Websocket, Rest Api
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/018db150-dfea-49e5-ba79-9cabdb351711) unicorn-desktop - REACT18, Redux Nuxt14, Tailwind, Websocket, Rest Api
 
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/70dfedf4-ebc6-4819-a8a5-0d431d298e3d.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/70dfedf4-ebc6-4819-a8a5-0d431d298e3d) LUGO DESKTOP - Vue3, Nuxt3, Tailwind, RestAPI IndexedDB, Pinia
 
+[![wakatime](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae.svg)](https://wakatime.com/badge/user/ff698a74-c07c-48e3-9090-6ca031e67730/project/79ee5314-e684-4845-8c72-1dd9ad402cae) LUGO Mobile - Vue3, Nuxt3, Tailwind, RestAPI IndexedDB, Pinia, PWA
 
 # WAKATIME PNG
 <img src="https://wakatime.com/share/@bialka/75fc2f90-489a-411e-b462-ee52ba0b778b.png" /> 
