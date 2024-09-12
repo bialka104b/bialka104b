@@ -35,6 +35,7 @@ wsiz.epanel.angular
 
 # WAKATIME Activity LAST YEAR GITLAB 2.09.2024
 self-updating view
+
 <img src="https://wakatime.com/share/@bialka/81114bfe-bb54-4bd9-a2c7-b63b963f18c1.svg" /> 
 
 
